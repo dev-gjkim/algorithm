@@ -1,4 +1,4 @@
-
+// 인접리스트
 
 class Graph {
     constructor() {
